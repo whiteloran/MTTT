@@ -14,7 +14,5 @@
 [MyGit](https://whiteloran.github.io/)
 [Get Started](home.md)
 
-<!-- background image -->
 
-![BGI](https://s1.ax1x.com/2020/05/23/YxeMxs.md.png)
 
