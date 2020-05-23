@@ -4,3 +4,6 @@
 
 暂时的封面图源：
 Pixiv ID: 77260323
+
+施工流程见schedule，虽然schedule也在施工。
+
