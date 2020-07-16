@@ -5,11 +5,12 @@
 * [Schedule](Schedule.md)
 * [Setting](documents.md)
 	* [Abstract](documents/MTTTabstract.md)
+	* [Base rules](documents/MTTTbase.md)
 	* [Character](documents/MTTTcharacter.md)
-		* [ExampleCard](documents/MTTTcharactersheet.md)
 		* [Wish](documents/MTTTwish.md)
-		* [Appearance](documents/MTTTapearance.md)
+		* [Speciality]((documents/MTTTspeciality.md)
 		* [Skills](documents/MTTTskill.md)
+		* [Appearance](documents/MTTTapearance.md)
 	* [Background](documents/MTTTbackground.md)
 		* [Worldview](documents/MTTTadventure.md)
 		* [Party](documents/MTTTparty.md)
@@ -34,8 +35,10 @@
 		* [Suit](documents/MTTTsuit.md)
 	* [Monsters](documents/MTTTmonsters.md)
 	* [Keywords](documents/MTTTkeywords.md)
-* [Base documents](documents/MTTTbase.md)
+* [Base documents]
 	* [Object](documents/MTTTobject.md)
+* [Examples]
+	* [ExampleCard](documents/MTTTcharactersheet.md)
 * [Modules](Modules.md)
 * [Download](Download.md)
 
