@@ -8,7 +8,7 @@
 	* [Character](documents/MTTTcharacter.md)
 		* [ExampleCard](documents/MTTTcharactersheet.md)
 		* [Wish](documents/MTTTwish.md)
-		* [Apearance](documents/MTTTapearance.md)
+		* [Appearance](documents/MTTTapearance.md)
 		* [Skills](documents/MTTTskill.md)
 	* [Background](documents/MTTTbackground.md)
 		* [Worldview](documents/MTTTadventure.md)
