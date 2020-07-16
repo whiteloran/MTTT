@@ -7,7 +7,7 @@ Pixiv ID: 77260323
 
 施工流程见schedule，虽然schedule也在施工。
 
-本规则希望
+本规则希望构造出简单方便，易于进行游戏的体系。
 
 
-本网页使用docsify配置
+本网页使用docsify配置。
