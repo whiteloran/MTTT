@@ -6,6 +6,9 @@
 * [Setting](documents.md)
 	* [Abstract](documents/MTTTabstract.md)
 	* [Base rules](documents/MTTTbase.md)
+		* [Check](documents/MTTTcheck.md)
+		* [Action](documents/MTTTaction.md)
+		* [Keyword](documents/MTTTkeyword.md)
 	* [Character](documents/MTTTcharacter.md)
 		* [Wish](documents/MTTTwish.md)
 		* [Speciality]((documents/MTTTspeciality.md)
@@ -15,13 +18,14 @@
 		* [Worldview](documents/MTTTadventure.md)
 		* [Party](documents/MTTTparty.md)
 	* [Adventure](documents/MTTTadventure.md)
-
 		* [Distance](documents/MTTTdistance.md)	
-
-	* [Battles](documents/MTTTbattle.md)
-	* [Social Battles](documents/MTTTsocialbattle.md)
-	* [Checks](documents/MTTTchecks.md)
-    * [Spells](documents/MTTTspelloverview.md)
+		* [Extent](documents/MTTTextent.md)	
+	* [Scene](documents/MTTTscene.md)
+		* [Battles](documents/MTTTbattle.md)
+		* [Social Battles](documents/MTTTsocialbattle.md)
+		* [Explore](documents/MTTTexplore.md)
+		* [Plan](documents/MTTTplan.md)
+    * [Spell](documents/MTTTspelloverview.md)
 		* [Level-1](documents/MTTTspells1.md)
 		* [Level-2](documents/MTTTspells2.md)
 		* [Level-3](documents/MTTTspells3.md)
@@ -32,11 +36,15 @@
 		* [Level-8](documents/MTTTspells8.md)
 		* [Level-9](documents/MTTTspells9.md)
 	* [Items](documents/MTTTitems.md)
-		* [Suit](documents/MTTTsuit.md)
+		* [Weapons]
+		* [Suits](documents/MTTTsuit.md)
+		* [Ornaments]
+		* [Magic items]
+		* [Consumables]
 	* [Monsters](documents/MTTTmonsters.md)
-	* [Keywords](documents/MTTTkeywords.md)
 * [Base documents]
 	* [Object](documents/MTTTobject.md)
+	* [Keywords](documents/MTTTkeywords.md)
 * [Examples]
 	* [ExampleCard](documents/MTTTcharactersheet.md)
 * [Modules](Modules.md)
