@@ -26,6 +26,7 @@
 		* [Explore](documents/MTTTexplore.md)
 		* [Plan](documents/MTTTplan.md)
     * [Spell](documents/MTTTspelloverview.md)
+		* [Magic Research](documents/MTTTmagicre.md)
 		* [Level-1](documents/MTTTspells1.md)
 		* [Level-2](documents/MTTTspells2.md)
 		* [Level-3](documents/MTTTspells3.md)
