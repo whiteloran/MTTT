@@ -1,5 +1,5 @@
 <head>
-<meta name="viewport" content="width=device-width,initial-scale=0.5, minimum-scale=0.1, maximum-scale=1.0, user-scalable=no"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=0.1, maximum-scale=1.0, user-scalable=no"/>
 <style type="text/css">
 	#important {margin:0 auto !important};
 	#cross {margin:0 auto !important};
@@ -14,7 +14,7 @@
 
 <img id="tipic" src="M.svg" style="zoom:50%" />
 <p id="cross"></p>
-<img id="tipic" src="Title3.svg" style="zoom:200%"/>
+<img id="tipic" src="Title.svg" style="zoom:200%"/>
 
 <p><font size = 4><i>“往往是那些善良的愿望，把人类带入了人间地狱。”——[德]荷尔德林</i></font></p>
 
@@ -23,7 +23,7 @@
 - 轻量化、模板化、对象化的魔法少女TRPG规则
 
 [MyGit](https://whiteloran.github.io/)
-[Get Started](home.md)
+[Get Started](documents/home.md)
 
 </body>
 
