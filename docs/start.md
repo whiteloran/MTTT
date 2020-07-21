@@ -1,3 +1,10 @@
+<head>
+<style type="text/css">
+    p {text-indent: 2.1em};
+</style>
+</head>
+
+
 # 魔法少女超越时间
 
 *“魔法少女超越时间，魔法少女是历史长河上的旅人。”*
