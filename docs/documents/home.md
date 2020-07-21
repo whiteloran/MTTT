@@ -1,3 +1,13 @@
+<head>
+<style type="text/css">
+	#important {margin:0 auto !important}
+	p {font-size:1.2em !important;font-family:Arial,Helvetica,sans-serif !important;line-height:8px}
+	td {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
+	li {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
+	select {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
+</style>
+</head>
+
 # 魔法少女超越时间
 
 > 该规则仍然在施工中。

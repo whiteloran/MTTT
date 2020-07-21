@@ -1,5 +1,12 @@
 <head>
 <meta name="viewport" content="width=device-width,initial-scale=0.5, minimum-scale=0.1, maximum-scale=1.0, user-scalable=no"/>
+<style type="text/css">
+	#important {margin:0 auto !important};
+	p {font-size:1.2em !important;font-family:Arial,Helvetica,sans-serif !important;line-height:8px};
+	td {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
+	li {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
+	select {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
+</style>
 </head>
 <body>
 
