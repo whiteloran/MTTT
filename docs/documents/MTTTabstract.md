@@ -1,7 +1,6 @@
 <head>
 <style type="text/css">
-    p {text-indent: 30px};
-	p {font-size:2em}
+    p {text-indent: 2em};
 </style>
 </head>
 

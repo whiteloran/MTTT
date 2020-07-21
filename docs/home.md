@@ -25,7 +25,7 @@
 
 
 
-<a href="https://imgchr.com/i/U5FJZF"><img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" /></a>
+<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
 
 
 
