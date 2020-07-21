@@ -18,9 +18,9 @@
 
 <p><font size=1rem><i>“往往是那些善良的愿望，把人类带入了人间地狱。”——[德]荷尔德林</i></font></p>
 
-- <font size=0.8rem>仅需购点方法完成角色建立</font>
-- <font size=0.8rem>对抗骰法完成成功检定</font>
-- <font size=0.8rem>轻量化、模板化、对象化的魔法少女TRPG规则</font>
+- <font size=1rem>仅需购点方法完成角色建立</font>
+- <font size=1rem>对抗骰法完成成功检定</font>
+- <font size=1rem>轻量化、模板化、对象化的魔法少女TRPG规则</font>
 
 
 [MyGit](https://whiteloran.github.io/)
