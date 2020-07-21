@@ -4,7 +4,7 @@
 <body>
 
 <img src="M.svg" style="zoom:50%" />
-<h1><strong><font size= 7 !important>Magicalgirl<sup>Transcend</sup>the<sub>Time</sub>TRPG</font></strong></h1>
+<h1 id="important"><strong><font size= 7 !important>Magicalgirl<sup>Transcend</sup>the<sub>Time</sub>TRPG</font></strong></h1>
 <p><strong><font size = 8 face = 'Arial' !important>魔法少女超越时间</font></strong></p>
 
 <p><font size = 4><i>“往往是那些善良的愿望，把人类带入了人间地狱。”——[德]荷尔德林</i></font></>

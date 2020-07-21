@@ -1,10 +1,7 @@
-<head>
-<style type="text/css">
-    p {text-indent: 2.1em};
-</style>
-</head>
 
 # 购点法、对象、骰子与检定
+
+
 
 ***MTTT*** *是一个非常简单的规则。看完这一部分，你基本上就已经掌握了本规则的所有要点。*
 
