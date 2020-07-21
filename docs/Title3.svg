@@ -1,0 +1,21 @@
+<svg width="350" height="64" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="rgb(256,256,256,0)" id="canvas_background" height="66" width="352" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="rgb(256,256,256,0)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_2" y="27.451914" x="5.5" stroke-width="0" fill="#000000">Magicalgirl</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="20" id="svg_3" y="16.950165" x="118.49925" stroke-width="0" stroke="#000" fill="#000000">Transcend</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="16" id="svg_4" y="25.451914" x="209.001249" stroke-width="0" stroke="#000" fill="#000000">the</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_5" y="33.951665" x="235.5" stroke-width="0" stroke="#000" fill="#000000">Time</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="24" id="svg_7" y="28.451914" x="289.5" stroke-width="0" stroke="#000" fill="#000000">TRPG</text>
+  <text stroke="#000" transform="matrix(1.0821566581726074,0,0,1,-4.984598495066166,0) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_8" y="46.951914" x="48.5" stroke-width="0" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="65.223597" x="214.732634" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="26" id="svg_12" y="59.226595" x="73.166402" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">魔法少女超越时间</text>
+ </g>
+</svg>
