@@ -294,3 +294,8 @@ AR = [(1/3)*HP]+可能的其它加值;
 
 关于特质的具体项目请看特质一章。
 
+***
+
+<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
+
+

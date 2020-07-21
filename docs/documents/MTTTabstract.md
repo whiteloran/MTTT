@@ -90,3 +90,8 @@ stateDiagram
 最后这个好像复杂了一点点，但应该也还好？到了这里，我相信你已经基本懂得这个规则怎么游玩了。
 
 我们正式开始吧？
+
+***
+
+<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
+
