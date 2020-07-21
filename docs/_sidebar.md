@@ -1,9 +1,9 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](home.md)
-* [Start](start.md)
-* [Schedule](Schedule.md)
-* [Setting](documents.md)
+* [Home](documents/home.md)
+* [Start](documents/start.md)
+* [Schedule](documents/Schedule.md)
+* [Setting](documents/documents.md)
 	* [Abstract](documents/MTTTabstract.md)
 	* [Base rules](documents/MTTTbase.md)
 		* [Check](documents/MTTTcheck.md)
