@@ -50,7 +50,6 @@
     }
 </script>
 
-[MyGit](https://whiteloran.github.io/)
 [Get Started](documents/home.md)
 
 </body>
