@@ -2,8 +2,6 @@
 
 * [Home](documents/home.md)
 * [Start](documents/start.md)
-* [Schedule](documents/Schedule.md)
-* [Download](documents/Download.md)
 * [Modules](documents/Modules.md)
 * [Campaigns](documents/Campaigns.md)
 * [Setting](documents/documents.md)
@@ -18,17 +16,17 @@
 		* [Miracle point](documents/MTTTmirp.md)
 		* [Speciality]((documents/MTTTspeciality.md)
 		* [Skills](documents/MTTTskill.md)
-		* [Overlimit](documents/MTTToverlimit.md)
 		* [Appearance](documents/MTTTapearance.md)
 		* [Character Background](documents/MTTTchaba.md)
+	* [Transform](documents/MTTTtrans.md)
+		* [Weapons]
+		* [Suits](documents/MTTTsuit.md)
+		* [Overlimit](documents/MTTToverlimit.md)
 	* Magic
 		* [Order/Chaos](documents/MTTToc.md)
-		* [Transform](documents/MTTTtrans.md)
 		* [Magic Research](documents/MTTTmagicre.md)
 		* [Spell](documents/MTTTspelloverview.md)
 	* [Items](documents/MTTTitems.md)
-		* [Weapons]
-		* [Suits](documents/MTTTsuit.md)
 		* [Ornaments]
 		* [Magic items]
 		* [Consumables]
