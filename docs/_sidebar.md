@@ -3,7 +3,6 @@
 * [Home](documents/home.md)
 * [Start](documents/start.md)
 * [Modules](documents/Modules.md)
-* [Campaigns](documents/Campaigns.md)
 * [Setting](documents/documents.md)
 	* [Abstract](documents/MTTTabstract.md)
 	* [Base rules](documents/MTTTbase.md)
@@ -16,11 +15,12 @@
 		* [Miracle point](documents/MTTTmirp.md)
 		* [Speciality]((documents/MTTTspeciality.md)
 		* [Skills](documents/MTTTskill.md)
-		* [Appearance](documents/MTTTapearance.md)
+		* [Appearance](documents/MTTTappearance.md)
 		* [Character Background](documents/MTTTchaba.md)
 	* [Transform](documents/MTTTtrans.md)
-		* [Weapons]
+		* [Weapons](documents/MTTTweapon.md)
 		* [Suits](documents/MTTTsuit.md)
+		* [Execute](documents/MTTTexecute.md)
 		* [Overlimit](documents/MTTToverlimit.md)
 	* Magic
 		* [Order/Chaos](documents/MTTToc.md)
