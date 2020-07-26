@@ -13,7 +13,7 @@
 		* [Attribute](documents/MTTTcharacter.md)
 		* [Wish](documents/MTTTwish.md)
 		* [Miracle point](documents/MTTTmirp.md)
-		* [Speciality]((documents/MTTTspeciality.md)
+		* [Speciality](documents/MTTTspeciality.md)
 		* [Skills](documents/MTTTskill.md)
 		* [Appearance](documents/MTTTappearance.md)
 		* [Character Background](documents/MTTTchaba.md)
