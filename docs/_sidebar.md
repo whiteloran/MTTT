@@ -25,21 +25,22 @@
 		* [Suits](documents/MTTTsuit.md)
 		* [Execute](documents/MTTTexecute.md)
 		* [Overlimit](documents/MTTToverlimit.md)
+	* Items
+		* [Overview](documents/MTTTitems.md)
+		* [Wealth](documents/MTTTwealth.md)
+		* [Ornaments](documents/MTTTornaments.md)
+		* [Magic items](documents/MTTTmagicitems.md)
+		* [Mortal items](documents/MTTTmortalitems.md)
 	* Magic
 		* [Order/Chaos](documents/MTTToc.md)
 		* [Spell](documents/MTTTspelloverview.md)
 		* [Magic Research](documents/MTTTmagicre.md)
-	* Items
-		* [Overview](documents/MTTTitems.md)
-		* [Ornaments]
-		* [Magic items]
-		* [Consumables]
 	* Adventure
 		* [Overview](documents/MTTTadventure.md)
 		* [Distance](documents/MTTTdistance.md)	
-		* [Extent](documents/MTTTextent.md)	
-		* [Time Travel](documents/MTTTtrttravel.md)	
 		* [Enhancements](documents/MTTTenhance.md)
+		* [Time Travel](documents/MTTTtrttravel.md)	
+		* [Team](documents/MTTTteams.md)	
 	* Scene
 		* [Overview](documents/MTTTscene.md)
 		* [Battles](documents/MTTTbattle.md)
