@@ -1,11 +1,11 @@
 <head>
-<style type="text/css">
+<!--<style type="text/css">
 	#important {margin:0 auto !important}
 	p {font-size:1.2em !important;font-family:Arial,Helvetica,sans-serif !important;line-height:8px}
 	td {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
 	li {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
 	select {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
-</style>
+</style>-->
 </head>
 
 # 魔法少女超越时间
@@ -28,6 +28,8 @@
 除此之外，本规则受到各类TRPG规则和卡牌游戏的致幻油墨攻击，可能在阅读中产生deja vu.
 
 希望能快点写完这个规则吧，我想要带着小伙伴们一起测试了……
+
+在图标上，目前使用了http://weavesilk.com/进行绘制，这个网站非常不错，尤其是对于缺乏艺术细胞的人来说。
 
 本网页使用docsify配置。建议在电脑端使用Chrome浏览器以获得最佳体验。
 若是封面显示与下图不符，则表示当前网页运行在字体与页面的兼容状态。
