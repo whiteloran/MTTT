@@ -385,6 +385,6 @@ result_L = 6(D20)+3(工程(电子))+4(\frac{1}{2}学识调整值) = 13
 
 ***
 
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" height="50%" width="50%"/>
+<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="20"/>
 
 
