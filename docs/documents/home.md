@@ -41,7 +41,7 @@ http://weavesilk.com/
 
 ***
 
-<img style="transform:scale(0.6) src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
+<img height=50% src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
 
 
 
