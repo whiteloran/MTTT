@@ -39,9 +39,7 @@ http://weavesilk.com/
 若是封面显示与下图不符，则表示当前网页运行在字体与页面的兼容状态。
 <img src="https://s1.ax1x.com/2020/07/21/UIdGb6.png" alt="UIdGb6.png"/>
 
-***
 
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="60"/>
 
 
 
