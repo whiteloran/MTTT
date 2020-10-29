@@ -26,8 +26,5 @@
 那么，关键字系统就介绍到这里了。
 我们将开始创建一个人物。
 
-***
-
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
 
 

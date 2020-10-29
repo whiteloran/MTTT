@@ -110,8 +110,8 @@
 | 蓝色 | B    | 认知与法术 |
 | 紫色 | P    | 社交与精神 |
 
-<img src="https://s1.ax1x.com/2020/10/22/BkGnaD.jpg" alt="BkGnaD.jpg" height="50%" width="50%"/>
 
+<img src="https://s1.ax1x.com/2020/10/22/BkGnaD.jpg" style="zoom:50%" />
 
 ### 选择法术：
 
@@ -225,4 +225,4 @@
 
 ***
 
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" height="50%" width="50%"/>
+<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" style="zoom:50%" />

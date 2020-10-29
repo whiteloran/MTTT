@@ -96,9 +96,4 @@
 第一步，我们来看属性。
 
 
-***
-
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
-
-
 
