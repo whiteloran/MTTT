@@ -28,9 +28,9 @@
 		* [Speciality Lv-8](documents/specis8.md)
 		* [Speciality Lv-9](documents/specis9.md)
 	* [Skills](documents/skill.md)
-		* Skills
-		* Skills
-		* Skills
+		* Physical(documents/skill1.md)
+		* Mental(documents/skill2.md)
+		* Social(documents/skill3.md)
 	* [Transform](documents/trans.md)
 		* [Weapons](documents/weapon.md)
 		* [Suits](documents/suit.md)
@@ -40,7 +40,7 @@
 		* [Wealth](documents/wealth.md)
 		* [Magic items](documents/magicitems.md)
 		* [Mortal items](documents/mortalitems.md)
-	* Magic
+	* [Magic](documents/magic.md)
 		* [Order/Chaos](documents/oc.md)
 		* [Magic Research](documents/magicre.md)
 	* [Spell](documents/spelloverview.md)
@@ -64,7 +64,7 @@
 	* [Adventure](documents/adventure.md)
 		* [Enviornment](documents/enviornment.md)
 		* [Distance](documents/distance.md)	
-		* [Time Travel](documents/trttravel.md)	
+		* [Time Travel](documents/timetravel.md)	
 		* [Status](documents/status.md)	
 		* [Team](documents/teams.md)
 	* [Monsters](documents/monsters.md)
