@@ -23,8 +23,4 @@ MTTT规则不对人物的样貌做出太多限制。你可以写出力大无穷�
 尾巴样式：
 ```
 
-***
-
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
-
 
