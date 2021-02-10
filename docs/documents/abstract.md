@@ -51,7 +51,7 @@
 ```tex
 \begin{aligned}
 result_H &= d20 + X_1\\
-result_H &= d20 + X_1
+result_L &= d20 + X_2
 \end{aligned}
 ```
 
