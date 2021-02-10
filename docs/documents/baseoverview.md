@@ -1,3 +1,12 @@
+<head>
+<style type="text/css">
+	article code {
+		white-space: normal;
+		word-break: break-all;
+		}
+</style>
+</head>
+
 # 基本
 
 在这一部分，我们将会讨论四项规则：
