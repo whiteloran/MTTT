@@ -3,7 +3,7 @@
 	article code {
 		white-space: normal;
 		word-break: break-all;
-		}
+		}；
 </style>
 </head>
 
