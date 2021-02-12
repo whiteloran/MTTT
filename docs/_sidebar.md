@@ -55,7 +55,7 @@
 		* [Spell Lv-9](documents/spells9.md)
 	* [Scene](documents/scene.md)
 		* [Battles](documents/battle.md)
-		* [Society](documents/socialbattle.md)
+		* [Society](documents/society.md)
 		* [Explore](documents/explore.md)
 		* [Planing](documents/plan.md)
 		* [Daily](documents/daily.md)

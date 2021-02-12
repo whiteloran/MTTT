@@ -15,6 +15,9 @@
   <link href="https://cdn.jsdelivr.net/npm/katex-copytex@1.0.2/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
   <link href="https://cdn.bootcss.com/KaTeX/0.10.0/katex.min.css" rel="stylesheet">
   <script src="https://cdn.bootcss.com/KaTeX/0.10.0/katex.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  
   <!--<style type="text/css">
 	#important {margin:0 auto !important}
 	p {font-size:1.2em !important;font-family:Arial,Helvetica,sans-serif !important;line-height:8px}
@@ -23,8 +26,9 @@
 	select {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
   </style>
   <embed src="http://music.163.com/song/media/outer/url?id=29836662.mp3" hidden="true" autostart="true" loop="true"/>
-  <audio controls="controls" hidden="hidden" autoplay="autoplay" loop="loop"><source src="http://music.163.com/song/media/outer/url?id=29836662.mp3" type="audio/mpeg"/></audio>-->
-  <audio controls="controls" hidden="hidden" autoplay="autoplay" loop="loop"><source src="./bgm.mp3" type="audio/mpeg"/></audio>
+  <audio controls="controls" hidden="hidden" autoplay="autoplay" loop="loop"><source src="./bgm.mp3" type="audio/mpeg"/></audio>-->
+  <audio controls="controls" hidden="hidden" autoplay="autoplay" loop="loop"><source src="http://music.163.com/song/media/outer/url?id=29836662.mp3" type="audio/mpeg"/></audio>
+  
   
 </head>
 
@@ -96,5 +100,21 @@
   <script src="https://cdn.bootcss.com/viz.js/1.8.0/viz.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+	const gitalk = new Gitalk({
+		clientID: 'e93d61cabb483404769f',
+		clientSecret: 'f772f9d057df5c7b85c19bf69a0a631b5d03f2a4',
+		repo: 'MTTT-project-gitalkdata',
+		owner: 'whiteloran',
+		admin: ['whiteloran'],
+		// facebook-like distraction free mode
+		distractionFreeMode: false
+	})
+</script>
+  
+  
+  
 </body>
 </html>

@@ -9,7 +9,7 @@
 	li {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
 	select {font-size:1em !important;font-family:Arial,Helvetica,sans-serif !important};
 </style>
-<audio controls="controls" hidden="hidden" autoplay="autoplay" loop="loop"><source src="./bgm.mp3" type="audio/mpeg"/></audio>
+<audio controls="controls" hidden="hidden" autoplay="autoplay" loop="loop"><source src="http://music.163.com/song/media/outer/url?id=29836662.mp3" type="audio/mpeg"/></audio>
 </head>
 <body>
 
