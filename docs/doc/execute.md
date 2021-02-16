@@ -34,14 +34,6 @@
 在庸俗时间上发动终结技的魔法少女会立刻退出变身状态。
 
 
-***
-
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
-
-
-
-
-
 
 
 

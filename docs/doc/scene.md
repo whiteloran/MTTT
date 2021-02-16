@@ -33,9 +33,3 @@ GM: 这只魔女讨伐小队的四人，想要前往酒吧打听正在追击的�
 魔法少女A：
 
 
-
-***
-
-<img src="https://s1.ax1x.com/2020/07/20/U5FJZF.png" alt="U5FJZF.png" border="0" />
-
-
