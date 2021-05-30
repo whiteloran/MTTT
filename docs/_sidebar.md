@@ -3,7 +3,7 @@
 * [Home](doc/1.md)
 * [Start](doc/2.md)
 * [Modules](doc/3.md)
-* [Setting](doc/4.md)
+* [Rules](doc/4.md)
 	* [Abstract](doc/5.md)
 	* [Base rules](doc/6.md)
 		* [Check](doc/7.md)
@@ -49,8 +49,6 @@
 		* [Explore](doc/explore.md)
 		* [Planing](doc/plan.md)
 		* [Daily](doc/daily.md)
-	* [Background](doc/bg.md)
-		* [Party](doc/party.md)
 	* [Adventure](doc/adt.md)
 		* [Enviornment](doc/env.md)
 		* [Distance](doc/dis.md)	
@@ -58,6 +56,11 @@
 		* [Status](doc/status.md)	
 		* [Team](doc/teams.md)
 	* [Monsters](doc/monsters.md)
+* [Settings](doc/bg.md)
+	* [Worlds]
+	* [Party](doc/party.md)
+	* [Verein]
+	* [Events]
 * Base doc
 	* [Object](doc/object.md)
 	* [Keywords](doc/keywords.md)
