@@ -1,0 +1,2056 @@
+{
+  "filename_path_info" : {
+    "object" : "object.md",
+    "8" : "8.md",
+    "society" : "society.md",
+    "skill1" : "skill1.md",
+    "summary" : "summary.md",
+    "7" : "7.md",
+    "skill2" : "skill2.md",
+    "dis" : "dis.md",
+    "keywords" : "keywords.md",
+    "spells1" : "spells1.md",
+    "execute" : "execute.md",
+    "specis4" : "specis4.md",
+    "1" : "1.md",
+    "teams" : "teams.md",
+    "6" : "6.md",
+    "storys" : "storys.md",
+    "suit" : "suit.md",
+    "9" : "9.md",
+    "option" : "option.md",
+    "specis1" : "specis1.md",
+    "17" : "17.md",
+    "14" : "14.md",
+    "subjects" : "subjects.md",
+    "trans" : "trans.md",
+    "skill" : "skill.md",
+    "worlds" : "worlds.md",
+    "moi" : "moi.md",
+    "or" : "or.md",
+    "weapon" : "weapon.md",
+    "pri" : "pri.md",
+    "magicre" : "magicre.md",
+    "3" : "3.md",
+    "12" : "12.md",
+    "4" : "4.md",
+    "10" : "10.md",
+    "16" : "16.md",
+    "first" : "first.md",
+    "monsters" : "monsters.md",
+    "scene" : "scene.md",
+    "specis3" : "specis3.md",
+    "skill3" : "skill3.md",
+    "spells3" : "spells3.md",
+    "party" : "party.md",
+    "mi" : "mi.md",
+    "cs" : "cs.md",
+    "oc" : "oc.md",
+    "adt" : "adt.md",
+    "5" : "5.md",
+    "15" : "15.md",
+    "items" : "items.md",
+    "11" : "11.md",
+    "wealth" : "wealth.md",
+    "worldview" : "worldview.md",
+    "settings" : "settings.md",
+    "battle" : "battle.md",
+    "spells2" : "spells2.md",
+    "spells4" : "spells4.md",
+    "13" : "13.md",
+    "18" : "18.md",
+    "sov" : "sov.md",
+    "2" : "2.md",
+    "specis2" : "specis2.md"
+  },
+  "toc_info" : {
+    "18.md" : [
+      "0,# 特质",
+      "1,## 概述：",
+      "2,### 核心特质：",
+      "3,#### 更换核心特质：",
+      "4,### 经历特质：",
+      "5,#### 游戏中经历特质：",
+      "6,#### 自创经历特质："
+    ],
+    "specis4.md" : [
+      "0,##### 主系：无限",
+      "1,##### 主系：真实",
+      "2,##### 主系：零"
+    ],
+    "party.md" : [
+      "0,## MTTT 派系设定"
+    ],
+    "society.md" : [
+      "0,# 社交场景",
+      "1,## 概述"
+    ],
+    "skill1.md" : [
+      "0,# 生理学识",
+      "1,## 手艺(Craft)：需子类；需受训；",
+      "2,## 潜行(Stealth)：",
+      "3,## 运动(Athletics)：需子类；",
+      "4,## 驾驶(Drives)：需子类；需受训；",
+      "5,## 开锁：",
+      "6,## 格斗(Brawl)：",
+      "7,## 挥舞(Wield)：需子类；",
+      "8,## 瞄准(Aim)：需子类；",
+      "9,## 投掷(Throw)：需子类；"
+    ],
+    "monsters.md" : [
+
+    ],
+    "spells1.md" : [
+      "0,## MTTT spells 1",
+      "1,#### 寻找人间体",
+      "2,#### 桌上角色扮演游戏",
+      "3,####  魔力放出",
+      "4,#### 打倒正史派的垄断",
+      "5,#### 美食餐布",
+      "6,#### 魔法少女匿名岛登录术",
+      "7,##### 魔法强化",
+      "8,##### 彩虹小马",
+      "9,#####  出拳",
+      "10,##### 解除魔法",
+      "11,##### 魔法衣橱",
+      "12,##### 凡人祈愿术",
+      "13,##### 法术通讯"
+    ],
+    "sov.md" : [
+      "0,# 法术",
+      "1,## 法术力的分类：",
+      "2,### 法术力秩序\/歪曲比：",
+      "3,## 法术力池：",
+      "4,### 法术力池的容量上限：",
+      "5,#### 歪曲法术力池",
+      "6,#### 秩序法术力池",
+      "7,### 法术力池的活化：",
+      "8,#### 活化速度与展开法力",
+      "9,## 法术分类：",
+      "10,## 法术稀有度",
+      "11,### 选择法术：",
+      "12,### 法术池：",
+      "13,### 歪曲池：",
+      "14,#### 放逐池：",
+      "15,## 法术格式："
+    ],
+    "14.md" : [
+      "0,# 幕间与强化",
+      "1,### 强化",
+      "2,### 无模组内强化",
+      "3,### 幕间",
+      "4,#### 日常休息：",
+      "5,#### 假期："
+    ],
+    "mi.md" : [
+      "0,# 魔法物品",
+      "1,## 概述",
+      "2,### 制作魔法物品",
+      "3,#### 修复魔法物品",
+      "4,### 检定魔法物品",
+      "5,### 使用魔法物品",
+      "6,## 魔法物品详述",
+      "7,### 工具",
+      "8,#### 工具的种类",
+      "9,### 装置",
+      "10,#### 装置的种类：",
+      "11,### 载具",
+      "12,#### 载具的种类",
+      "13,### 消耗品",
+      "14,#### 消耗品的种类："
+    ],
+    "specis3.md" : [
+
+    ],
+    "skill2.md" : [
+      "0,# 精神学识",
+      "1,## 调查(Investigation) ：",
+      "2,## 领航(Navigate)：",
+      "3,## 文化知识(Academics)：需子类；需受训；",
+      "4,## 科学知识(Science)：需子类；需受训；",
+      "5,## 工程知识(Science)：需子类；需受训；",
+      "6,## 语言(Languages)：需子类；需受训；"
+    ],
+    "2.md" : [
+      "0,# 魔法少女超越时间",
+      "1,#### 魔法少女怎么确定自己在魔女时间轴上的时间？"
+    ],
+    "8.md" : [
+      "0,# 动作",
+      "1,### 标准动作：",
+      "2,### 瞬间动作：",
+      "3,### 持续动作："
+    ],
+    "skill.md" : [
+      "0,# 学识",
+      "1,## 概述：",
+      "2,### 技能等级：",
+      "3,### 技能判定：",
+      "4,### 多次尝试：",
+      "5,## 技能类别：",
+      "6,### 自创技能：",
+      "7,### 技能理念(Skill Philosophy)："
+    ],
+    "6.md" : [
+      "0,# 基本",
+      "1,### 特殊高于一般：",
+      "2,### 能力",
+      "3,### “可选”",
+      "4,### “一次游戏”\/“每次游戏”"
+    ],
+    "12.md" : [
+      "0,# 许愿",
+      "1,### 许愿、愿望与需求：",
+      "2,### 许愿规则",
+      "3,#### 心愿类",
+      "4,#### 愿望与愿景：",
+      "5,#### 愿望与负赘：",
+      "6,#### 愿望与扭曲："
+    ],
+    "object.md" : [
+      "0,# MTTT object",
+      "1,## 对象",
+      "2,### 静态对象与动态对象"
+    ],
+    "specis1.md" : [
+      "0,## 特质表",
+      "1,### 核心",
+      "2,#### 主系:",
+      "3,##### 主系：",
+      "4,#### 副系:",
+      "5,### 经历特质",
+      "6,##### 特质名：快速行动"
+    ],
+    "worlds.md" : [
+
+    ],
+    "option.md" : [
+      "0,# MTTT gm options",
+      "1,## x100：",
+      "2,## 六边形地图：",
+      "3,## 禁用插入阶段：（\\*）"
+    ],
+    "weapon.md" : [
+      "0,# 魔导器",
+      "1,## 概述",
+      "2,## 魔导器数值",
+      "3,## 魔导器强化",
+      "4,### 基底强化",
+      "5,#### 命中强化：",
+      "6,#### 骰数强化：",
+      "7,#### 格挡强化：",
+      "8,####穿透强化：",
+      "9,#### 距离强化：",
+      "10,### 关键字强化",
+      "11,## 传说武器",
+      "12,## 范例武器"
+    ],
+    "skill3.md" : [
+      "0,# 社交学识：",
+      "1,## 艺术知识：需子类；",
+      "2,## 交涉(Negotiate)：",
+      "3,## 表达(Expression)：",
+      "4,## 胁迫(Intimidation)：",
+      "5,## 说服(Persuasion)：",
+      "6,## 社交(Socialize)：",
+      "7,## 掩饰(Subterfuge)："
+    ],
+    "subjects.md" : [
+
+    ],
+    "moi.md" : [
+      "0,# 凡间物品",
+      "1,## 概述",
+      "2,#### 凡物的描述模板：",
+      "3,## 凡物的种类",
+      "4,### 凡间武装",
+      "5,### 凡间护甲",
+      "6,### 凡间工具",
+      "7,### 凡间载具",
+      "8,### 凡间消耗品"
+    ],
+    "4.md" : [
+      "0,# 规则目录"
+    ],
+    "spells2.md" : [
+      "0,## MTTT spells 2",
+      "1,##### 超感知，五感强化",
+      "2,##### 雪人枪",
+      "3,##### 一刀翻山海",
+      "4,##### 神圣的卡拉联系着我们",
+      "5,##### 豪宅术",
+      "6,##### 适应灯",
+      "7,##### 狗狗是人类最好的伙伴",
+      "8,##### 假面骑士",
+      "9,##### 意外绽放"
+    ],
+    "wealth.md" : [
+      "0,# 财富",
+      "1,## 灵魂玉财富",
+      "2,### 灵魂玉的来源",
+      "3,## 凡间财富",
+      "4,### 概述：",
+      "5,### 凡间财富的购买力"
+    ],
+    "storys.md" : [
+
+    ],
+    "spells3.md" : [
+      "0,## MTTT spells 3",
+      "1,##### 没有性别的世界",
+      "2,##### 动物基因保护",
+      "3,##### 司命",
+      "4,##### 解放农业",
+      "5,##### 优雅的世界"
+    ],
+    "teams.md" : [
+      "0,# 组织与小队",
+      "1,## 概述",
+      "2,### 目的型组织",
+      "3,### 研究型组织",
+      "4,### 行动型组织"
+    ],
+    "execute.md" : [
+      "0,# 终结技",
+      "1,### 概述",
+      "2,### 规则机制",
+      "3,#### 发动前提：",
+      "4,#### 发动：",
+      "5,#### 发动结果："
+    ],
+    "17.md" : [
+      "0,# 人物背景",
+      "1,### 概述"
+    ],
+    "15.md" : [
+      "0,# 界限突破",
+      "1,### 如何进阶超凡",
+      "2,### 超凡的特殊能力",
+      "3,#### 强化判定：",
+      "4,#### 额外特质：",
+      "5,#### 强化武装："
+    ],
+    "battle.md" : [
+      "0,# 战斗场景",
+      "1,## 概述",
+      "2,## 战斗资源与战斗数值",
+      "3,### 生命点数HP",
+      "4,### 歪曲阶段（CP，Chaos Phase）",
+      "5,### 法术力上限MPM",
+      "6,#### 每回合法术力TMP与展开法术力池",
+      "7,### 先导度（Priority；Pr）",
+      "8,#### 先导崩溃:",
+      "9,#### 先导突破:",
+      "10,#### 先导逆转:",
+      "11,### 动作",
+      "12,## 战斗流程",
+      "13,### 开始",
+      "14,### 准备阶段",
+      "15,### 主要阶段：战斗回合",
+      "16,#### 阶段1：开始",
+      "17,#### 阶段2：行动轮",
+      "18,### 阶段3：结算",
+      "19,### 中途加入：在战斗回合中，出现新的参战单位的处理",
+      "20,### 插入阶段：瞬间法术与战时触发效果",
+      "21,### 结束阶段",
+      "22,### 结束",
+      "23,## 战斗行动",
+      "24,### 待机：",
+      "25,### 拔出\/预备武器（先导度）：",
+      "26,### 展开法术力池（先导度）：",
+      "27,### 瞄准（先导度）：",
+      "28,### 攻击（标准动作）：",
+      "29,#### 制敌攻击：",
+      "30,#### 致命攻击：",
+      "31,### 交锋",
+      "32,### 防御：",
+      "33,#### 一般防御：",
+      "34,#### 全力防御（标准动作）：",
+      "35,### 护卫（标准动作）：",
+      "36,### 伤害：",
+      "37,#### 伤害的类型：",
+      "38,### 战技",
+      "39,### 施法：",
+      "40,### 移动：",
+      "41,#### 通常移动（Move）：",
+      "42,#### 跟步（Rush）：",
+      "43,####  撤退（Disengage）：",
+      "44,#### 恢复移动力：",
+      "45,#### 寻求掩蔽：",
+      "46,#### 逃脱（Withdraw）：",
+      "47,### 灵魂残疾：",
+      "48,### 燃玉",
+      "49,#### 燃玉点数的使用",
+      "50,#### 燃玉点数的获得",
+      "51,#### 燃玉点数的消失",
+      "52,## 处理大规模战斗和规模悬殊的战斗",
+      "53,### 战团特性：",
+      "54,#### 规模：",
+      "55,#### 训练度（Drill）",
+      "56,#### 威能（Might）",
+      "57,### 与战团战斗："
+    ],
+    "pri.md" : [
+
+    ],
+    "3.md" : [
+
+    ],
+    "16.md" : [
+      "0,# 样貌",
+      "1,### 概述"
+    ],
+    "9.md" : [
+      "0,# 关键字",
+      "1,### 关键字的类别：",
+      "2,#### 例子："
+    ],
+    "trans.md" : [
+      "0,# 变身",
+      "1,### 概述",
+      "2,#### 变身动作",
+      "3,#### 长河之上",
+      "4,#### 变身恢复",
+      "5,#### 变身描述",
+      "6,### 变身强化",
+      "7,#### 视为“长河”对象",
+      "8,#### 获得护甲",
+      "9,#### 开放武装\/服装使用",
+      "10,#### 开放终结技使用"
+    ],
+    "summary.md" : [
+      "0,# MTTT BASE",
+      "1,### 灵魂玉：",
+      "2,#### 白色灵魂玉：",
+      "3,#### 秩序源晶：",
+      "4,### 必杀技：",
+      "5,### 变身：",
+      "6,### 武装：",
+      "7,### 法术：",
+      "8,### 秩序\/歪曲：",
+      "9,## 加值"
+    ],
+    "first.md" : [
+      "0,##"
+    ],
+    "scene.md" : [
+      "0,# 场景",
+      "1,## 概述",
+      "2,### 特定成功",
+      "3,### 普通成功",
+      "4,### 总骰数上限",
+      "5,## 例子"
+    ],
+    "oc.md" : [
+      "0,# 秩序\/歪曲",
+      "1,## 概述",
+      "2,###",
+      "3,## 规则机制",
+      "4,### 秩序纯晶",
+      "5,#### 获得秩序纯晶",
+      "6,### 歪曲点数",
+      "7,#### 获得歪曲点数",
+      "8,### 歪曲改造",
+      "9,### 陷入歪曲",
+      "10,#### 1级歪曲改造",
+      "11,#### 2级歪曲改造",
+      "12,#### 3级歪曲改造"
+    ],
+    "10.md" : [
+      "0,# 人物构建",
+      "1,### 什么是魔法少女？",
+      "2,#### 魔法少女的诞生：",
+      "3,#### 魔法少女的组成：",
+      "4,#### 魔法少女的升华：",
+      "5,#### 魔法少女的数量：",
+      "6,#### 灵魂宝石与个人历史：",
+      "7,#### 魔法少女的愿望和质量：",
+      "8,#### 愿望的实现过程：",
+      "9,#### 愿望的完成与实现：",
+      "10,#### 愿望的放弃：",
+      "11,#### 愿望的改变：",
+      "12,### 规则相关",
+      "13,#### 购点数",
+      "14,#### 建卡"
+    ],
+    "7.md" : [
+      "0,# 判定",
+      "1,## 基本概念",
+      "2,### 骰子：",
+      "3,### 小数的舍入：",
+      "4,### 乘法：",
+      "5,## 基本判定：成功\/失败判定",
+      "6,### 调整值",
+      "7,#### 技能等级：",
+      "8,#### 属性调整值：",
+      "9,#### 其它加值：",
+      "10,### 优势劣势",
+      "11,#### 多个优势劣势：",
+      "12,#### 额外加值：",
+      "13,#### 自动成功与自动失败：",
+      "14,#### 通常情况：",
+      "15,### 目标数值：",
+      "16,#### 主动接收者：",
+      "17,##### 主动放弃：",
+      "18,#### 被动接收者：",
+      "19,## 其它判定："
+    ],
+    "suit.md" : [
+      "0,# 作战装束",
+      "1,## 概述",
+      "2,## 作战装束数值",
+      "3,## 防具强化",
+      "4,### 基底强化",
+      "5,#### 格挡强化：",
+      "6,#### 闪避强化：",
+      "7,#### 护甲强化：",
+      "8,### 关键字强化",
+      "9,## 传说防具",
+      "10,## 范例防具"
+    ],
+    "worldview.md" : [
+      "0,## MTTT 世界底层设定"
+    ],
+    "11.md" : [
+      "0,# 属性：",
+      "1,### 购点：",
+      "2,### 描述：",
+      "3,#### 力量：",
+      "4,#### 敏捷：",
+      "5,#### 体质：",
+      "6,#### 学识：",
+      "7,#### 魔法：",
+      "8,#### 认知：",
+      "9,#### 意志：",
+      "10,#### 交际：",
+      "11,#### 魅力："
+    ],
+    "magicre.md" : [
+      "0,# 魔法研究",
+      "1,## 概述",
+      "2,## 规则机制",
+      "3,### 魔法研究点数",
+      "4,### 提高魔法研究等级",
+      "5,### 获取超魔能力"
+    ],
+    "items.md" : [
+      "0,# 物品",
+      "1,## 物品类别",
+      "2,### 饰品",
+      "3,### 魔法物品",
+      "4,### 凡间物品",
+      "5,## 基本模板："
+    ],
+    "cs.md" : [
+      "0,# 范例人物卡模板",
+      "1,## 人物姓名",
+      "2,### 基石：",
+      "3,#### 基础属性：",
+      "4,#### 调整值：",
+      "5,#### 技能：",
+      "6,#### 法术：",
+      "7,##### 当前法术组：",
+      "8,### 特质：",
+      "9,#### 主系：",
+      "10,#### 副系：",
+      "11,#### 其它：",
+      "12,### 变身：",
+      "13,#### 基本信息：",
+      "14,#### 武装：",
+      "15,#### 服饰：",
+      "16,### 战斗：",
+      "17,#### 必杀技：",
+      "18,#### 主动能力：",
+      "19,#### 静态能力：",
+      "20,#### 触发效果：",
+      "21,### 社交：",
+      "22,#### 主动能力：",
+      "23,#### 静态能力：",
+      "24,#### 触发效果：",
+      "25,### 物品：",
+      "26,#### 武装：",
+      "27,#### 服饰：",
+      "28,#### 魔法物品：",
+      "29,#### 其它：",
+      "30,### 背景："
+    ],
+    "1.md" : [
+      "0,# 魔法少女超越时间"
+    ],
+    "adt.md" : [
+      "0,# 冒险"
+    ],
+    "settings.md" : [
+      "0,## MTTT 基本概念"
+    ],
+    "dis.md" : [
+      "0,# 距离与范围",
+      "1,## 距离",
+      "2,### 空间距离",
+      "3,### 时间距离",
+      "4,### 移动",
+      "5,## 范围："
+    ],
+    "spells4.md" : [
+      "0,# MTTT spells 4",
+      "1,## 乌洛波洛斯",
+      "2,## 登天圣阶（Per Aspera Ad Astra）",
+      "3,## 弗兰肯斯坦",
+      "4,## 人怜众神",
+      "5,## 神怜众生",
+      "6,## 原初之海"
+    ],
+    "5.md" : [
+      "0,# 购点法、对象、骰子与检定",
+      "1,## 购点法：",
+      "2,## 对象：",
+      "3,## 骰子与检定：",
+      "4,### 优势与劣势：",
+      "5,### 成功\/失败检定："
+    ],
+    "specis2.md" : [
+
+    ],
+    "13.md" : [
+      "0,# 奇迹点",
+      "1,## 奇迹点的获得与失去",
+      "2,#### 获得奇迹点：",
+      "3,#### 失去奇迹点：",
+      "4,## 奇迹点的使用",
+      "5,#### 重骰成功\/失败判定：",
+      "6,#### 重骰先攻：",
+      "7,#### 重骰伤害：",
+      "8,#### 改变优劣：",
+      "9,#### 大胆尝试：",
+      "10,#### 摆脱无助：",
+      "11,#### 影响故事："
+    ],
+    "keywords.md" : [
+      "0,# 关键字列表",
+      "1,## 法术关键字",
+      "2,### 流程关键字：",
+      "3,### 描述关键字：",
+      "4,## 生物关键字"
+    ],
+    "or.md" : [
+      "0,# 饰品",
+      "1,## 概述",
+      "2,## 饰品详述",
+      "3,### 饰品的分类：",
+      "4,### 饰品套装：",
+      "5,### 心意的拓片：",
+      "6,#### 拓片饰品列表：",
+      "7,### 形象的镜鉴：",
+      "8,#### 镜鉴饰品列表：",
+      "9,### 记忆的楔子：",
+      "10,#### 楔子饰品列表：",
+      "11,### 未来的期许：",
+      "12,#### 期许饰品列表：",
+      "13,### 自我的锚点：",
+      "14,#### 锚点饰品列表：",
+      "15,### 友伴的赠礼：",
+      "16,#### 赠礼饰品列表："
+    ]
+  },
+  "relative_paths" : [
+    "monsters.md",
+    "mi.md",
+    "5.md",
+    "spells4.md",
+    "subjects.md",
+    "18.md",
+    "specis4.md",
+    "adt.md",
+    "storys.md",
+    "settings.md",
+    "1.md",
+    "trans.md",
+    "weapon.md",
+    "spells1.md",
+    "skill1.md",
+    "first.md",
+    "society.md",
+    "cs.md",
+    "specis1.md",
+    "4.md",
+    "summary.md",
+    "16.md",
+    "items.md",
+    "party.md",
+    "oc.md",
+    "battle.md",
+    "12.md",
+    "13.md",
+    "sov.md",
+    "17.md",
+    "10.md",
+    "magicre.md",
+    "9.md",
+    "object.md",
+    "14.md",
+    "option.md",
+    "worldview.md",
+    "15.md",
+    "pri.md",
+    "wealth.md",
+    "skill.md",
+    "dis.md",
+    "11.md",
+    "8.md",
+    "scene.md",
+    "spells2.md",
+    "skill2.md",
+    "3.md",
+    "specis2.md",
+    "7.md",
+    "specis3.md",
+    "6.md",
+    "teams.md",
+    "worlds.md",
+    "suit.md",
+    "moi.md",
+    "keywords.md",
+    "execute.md",
+    "or.md",
+    "spells3.md",
+    "skill3.md",
+    "2.md"
+  ],
+  "name_path_info" : {
+    "execute" : "execute.md",
+    "society" : "society.md",
+    "18" : "18.md",
+    "dis" : "dis.md",
+    "8" : "8.md",
+    "summary" : "summary.md",
+    "13" : "13.md",
+    "mi" : "mi.md",
+    "cs" : "cs.md",
+    "12" : "12.md",
+    "6" : "6.md",
+    "trans" : "trans.md",
+    "11" : "11.md",
+    "magicre" : "magicre.md",
+    "spells1" : "spells1.md",
+    "suit" : "suit.md",
+    "2" : "2.md",
+    "subjects" : "subjects.md",
+    "skill1" : "skill1.md",
+    "items" : "items.md",
+    "first" : "first.md",
+    "specis3" : "specis3.md",
+    "option" : "option.md",
+    "object" : "object.md",
+    "weapon" : "weapon.md",
+    "battle" : "battle.md",
+    "spells4" : "spells4.md",
+    "monsters" : "monsters.md",
+    "14" : "14.md",
+    "specis2" : "specis2.md",
+    "skill3" : "skill3.md",
+    "sov" : "sov.md",
+    "skill" : "skill.md",
+    "1" : "1.md",
+    "settings" : "settings.md",
+    "spells2" : "spells2.md",
+    "or" : "or.md",
+    "spells3" : "spells3.md",
+    "teams" : "teams.md",
+    "4" : "4.md",
+    "storys" : "storys.md",
+    "7" : "7.md",
+    "5" : "5.md",
+    "worlds" : "worlds.md",
+    "specis1" : "specis1.md",
+    "10" : "10.md",
+    "wealth" : "wealth.md",
+    "3" : "3.md",
+    "16" : "16.md",
+    "specis4" : "specis4.md",
+    "17" : "17.md",
+    "9" : "9.md",
+    "oc" : "oc.md",
+    "pri" : "pri.md",
+    "skill2" : "skill2.md",
+    "adt" : "adt.md",
+    "worldview" : "worldview.md",
+    "moi" : "moi.md",
+    "party" : "party.md",
+    "15" : "15.md",
+    "scene" : "scene.md",
+    "keywords" : "keywords.md"
+  },
+  "relative_folders" : [
+
+  ],
+  "files_mtime_info" : {
+    "6.md" : 1631089782,
+    "magicre.md" : 1631089782,
+    "skill2.md" : 1631089782,
+    "specis2.md" : 1631089782,
+    "scene.md" : 1631089782,
+    "spells4.md" : 1631089782,
+    "17.md" : 1631089782,
+    "subjects.md" : 1631089782,
+    "keywords.md" : 1631089782,
+    "spells1.md" : 1631089782,
+    "specis4.md" : 1631089782,
+    "skill3.md" : 1631089782,
+    "storys.md" : 1631089782,
+    "society.md" : 1631089782,
+    "skill.md" : 1631089782,
+    "dis.md" : 1631089782,
+    "specis1.md" : 1631089782,
+    "skill1.md" : 1631089782,
+    "or.md" : 1631089782,
+    "7.md" : 1631089782,
+    "monsters.md" : 1631089782,
+    "18.md" : 1631089782,
+    "13.md" : 1631089782,
+    "mi.md" : 1631089782,
+    "2.md" : 1631089782,
+    "worldview.md" : 1631089782,
+    "10.md" : 1631089782,
+    "suit.md" : 1631089782,
+    "8.md" : 1631089782,
+    "5.md" : 1631089782,
+    "trans.md" : 1631089782,
+    "sov.md" : 1631089782,
+    "specis3.md" : 1631089782,
+    "4.md" : 1631089782,
+    "first.md" : 1631089782,
+    "cs.md" : 1631089782,
+    "3.md" : 1631089782,
+    "party.md" : 1631089782,
+    "option.md" : 1631089782,
+    "11.md" : 1631089782,
+    "object.md" : 1631089782,
+    "spells3.md" : 1631089782,
+    "12.md" : 1631089782,
+    "moi.md" : 1631089782,
+    "worlds.md" : 1631089782,
+    "execute.md" : 1631089782,
+    "14.md" : 1631089782,
+    "wealth.md" : 1631089782,
+    "9.md" : 1631089782,
+    "oc.md" : 1631089782,
+    "items.md" : 1631089782,
+    "settings.md" : 1631089782,
+    "summary.md" : 1631089782,
+    "1.md" : 1631089782,
+    "adt.md" : 1631089782,
+    "15.md" : 1631089782,
+    "spells2.md" : 1631089782,
+    "16.md" : 1631089782,
+    "teams.md" : 1631089782,
+    "battle.md" : 1631089782,
+    "pri.md" : 1631089782,
+    "weapon.md" : 1631089782
+  },
+  "toc_hash_info" : {
+
+  },
+  "links_backward_paths" : {
+
+  },
+  "documents_info" : {
+    "skill2.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "14.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "moi.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "specis2.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "1.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+        {
+          "name" : "第一楽章-ulu",
+          "url" : "https:\/\/music.163.com\/song?id=29836662&userid=361166853"
+        }
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "summary.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "trans.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "magicre.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "oc.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "10.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "option.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "dis.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "suit.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "party.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "spells1.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "spells4.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "battle.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "weapon.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "first.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "settings.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "monsters.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "skill1.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "adt.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "society.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "worldview.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "skill.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "15.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "6.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "execute.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "4.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "wealth.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "5.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "12.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "spells3.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "specis1.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "items.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "subjects.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "8.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "3.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "mi.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "cs.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "keywords.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "specis4.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "16.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "13.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "worlds.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "specis3.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "spells2.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "or.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "sov.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "pri.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "storys.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "object.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "7.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "11.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "scene.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "skill3.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "2.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "teams.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "18.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "9.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "17.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    }
+  },
+  "todo_list" : {
+
+  },
+  "words_info" : {
+    "weapon.md" : 1187,
+    "skill2.md" : 2621,
+    "11.md" : 1960,
+    "spells2.md" : 1726,
+    "option.md" : 185,
+    "summary.md" : 298,
+    "execute.md" : 476,
+    "moi.md" : 639,
+    "society.md" : 6,
+    "16.md" : 165,
+    "battle.md" : 18735,
+    "teams.md" : 118,
+    "specis2.md" : 0,
+    "suit.md" : 522,
+    "keywords.md" : 772,
+    "6.md" : 1047,
+    "9.md" : 356,
+    "spells1.md" : 2972,
+    "18.md" : 663,
+    "5.md" : 2109,
+    "worldview.md" : 2433,
+    "monsters.md" : 0,
+    "8.md" : 300,
+    "trans.md" : 768,
+    "cs.md" : 430,
+    "4.md" : 212,
+    "magicre.md" : 749,
+    "17.md" : 259,
+    "skill.md" : 2114,
+    "specis4.md" : 326,
+    "spells4.md" : 2213,
+    "object.md" : 55,
+    "sov.md" : 2656,
+    "first.md" : 1715,
+    "10.md" : 1982,
+    "14.md" : 579,
+    "skill1.md" : 2441,
+    "adt.md" : 2,
+    "specis3.md" : 0,
+    "skill3.md" : 551,
+    "spells3.md" : 1002,
+    "15.md" : 248,
+    "pri.md" : 0,
+    "mi.md" : 754,
+    "dis.md" : 536,
+    "items.md" : 604,
+    "worlds.md" : 0,
+    "or.md" : 1337,
+    "12.md" : 2943,
+    "3.md" : 0,
+    "13.md" : 855,
+    "7.md" : 3126,
+    "settings.md" : 1719,
+    "party.md" : 29,
+    "scene.md" : 1118,
+    "oc.md" : 1174,
+    "1.md" : 298,
+    "subjects.md" : 0,
+    "2.md" : 2203,
+    "wealth.md" : 376,
+    "specis1.md" : 455,
+    "storys.md" : 0
+  },
+  "path_name_info" : {
+    "3.md" : "3",
+    "magicre.md" : "magicre",
+    "spells2.md" : "spells2",
+    "9.md" : "9",
+    "dis.md" : "dis",
+    "wealth.md" : "wealth",
+    "14.md" : "14",
+    "specis3.md" : "specis3",
+    "spells1.md" : "spells1",
+    "11.md" : "11",
+    "skill.md" : "skill",
+    "teams.md" : "teams",
+    "keywords.md" : "keywords",
+    "monsters.md" : "monsters",
+    "items.md" : "items",
+    "worldview.md" : "worldview",
+    "1.md" : "1",
+    "object.md" : "object",
+    "specis4.md" : "specis4",
+    "trans.md" : "trans",
+    "sov.md" : "sov",
+    "oc.md" : "oc",
+    "party.md" : "party",
+    "7.md" : "7",
+    "storys.md" : "storys",
+    "skill3.md" : "skill3",
+    "18.md" : "18",
+    "8.md" : "8",
+    "summary.md" : "summary",
+    "cs.md" : "cs",
+    "2.md" : "2",
+    "moi.md" : "moi",
+    "settings.md" : "settings",
+    "15.md" : "15",
+    "spells3.md" : "spells3",
+    "specis1.md" : "specis1",
+    "13.md" : "13",
+    "subjects.md" : "subjects",
+    "16.md" : "16",
+    "5.md" : "5",
+    "mi.md" : "mi",
+    "battle.md" : "battle",
+    "4.md" : "4",
+    "first.md" : "first",
+    "scene.md" : "scene",
+    "suit.md" : "suit",
+    "12.md" : "12",
+    "society.md" : "society",
+    "adt.md" : "adt",
+    "spells4.md" : "spells4",
+    "option.md" : "option",
+    "17.md" : "17",
+    "skill2.md" : "skill2",
+    "worlds.md" : "worlds",
+    "specis2.md" : "specis2",
+    "6.md" : "6",
+    "10.md" : "10",
+    "weapon.md" : "weapon",
+    "skill1.md" : "skill1",
+    "pri.md" : "pri",
+    "execute.md" : "execute",
+    "or.md" : "or"
+  },
+  "tags_tags" : {
+
+  },
+  "links_paths" : {
+
+  },
+  "tags_paths" : {
+    "scene.md" : [
+
+    ],
+    "9.md" : [
+
+    ],
+    "keywords.md" : [
+
+    ],
+    "skill.md" : [
+
+    ],
+    "spells2.md" : [
+
+    ],
+    "settings.md" : [
+
+    ],
+    "cs.md" : [
+
+    ],
+    "17.md" : [
+
+    ],
+    "summary.md" : [
+
+    ],
+    "adt.md" : [
+
+    ],
+    "wealth.md" : [
+
+    ],
+    "7.md" : [
+
+    ],
+    "pri.md" : [
+
+    ],
+    "3.md" : [
+
+    ],
+    "worldview.md" : [
+
+    ],
+    "13.md" : [
+
+    ],
+    "14.md" : [
+
+    ],
+    "spells3.md" : [
+
+    ],
+    "spells4.md" : [
+
+    ],
+    "11.md" : [
+
+    ],
+    "specis1.md" : [
+
+    ],
+    "weapon.md" : [
+
+    ],
+    "sov.md" : [
+
+    ],
+    "execute.md" : [
+
+    ],
+    "skill1.md" : [
+
+    ],
+    "storys.md" : [
+
+    ],
+    "18.md" : [
+
+    ],
+    "12.md" : [
+
+    ],
+    "suit.md" : [
+
+    ],
+    "object.md" : [
+
+    ],
+    "2.md" : [
+
+    ],
+    "or.md" : [
+
+    ],
+    "magicre.md" : [
+
+    ],
+    "4.md" : [
+
+    ],
+    "specis3.md" : [
+
+    ],
+    "worlds.md" : [
+
+    ],
+    "skill3.md" : [
+
+    ],
+    "16.md" : [
+
+    ],
+    "15.md" : [
+
+    ],
+    "mi.md" : [
+
+    ],
+    "1.md" : [
+
+    ],
+    "specis2.md" : [
+
+    ],
+    "teams.md" : [
+
+    ],
+    "first.md" : [
+
+    ],
+    "10.md" : [
+
+    ],
+    "society.md" : [
+
+    ],
+    "spells1.md" : [
+
+    ],
+    "dis.md" : [
+
+    ],
+    "moi.md" : [
+
+    ],
+    "party.md" : [
+
+    ],
+    "skill2.md" : [
+
+    ],
+    "battle.md" : [
+
+    ],
+    "6.md" : [
+
+    ],
+    "8.md" : [
+
+    ],
+    "specis4.md" : [
+
+    ],
+    "monsters.md" : [
+
+    ],
+    "5.md" : [
+
+    ],
+    "option.md" : [
+
+    ],
+    "subjects.md" : [
+
+    ],
+    "trans.md" : [
+
+    ],
+    "oc.md" : [
+
+    ],
+    "items.md" : [
+
+    ]
+  },
+  "documents_meta_info" : {
+    "society.md" : {
+
+    },
+    "specis1.md" : {
+
+    },
+    "18.md" : {
+
+    },
+    "specis4.md" : {
+
+    },
+    "mi.md" : {
+
+    },
+    "first.md" : {
+
+    },
+    "teams.md" : {
+
+    },
+    "worlds.md" : {
+
+    },
+    "14.md" : {
+
+    },
+    "or.md" : {
+
+    },
+    "5.md" : {
+
+    },
+    "skill3.md" : {
+
+    },
+    "spells4.md" : {
+
+    },
+    "spells2.md" : {
+
+    },
+    "keywords.md" : {
+
+    },
+    "specis3.md" : {
+
+    },
+    "moi.md" : {
+
+    },
+    "settings.md" : {
+
+    },
+    "2.md" : {
+
+    },
+    "11.md" : {
+
+    },
+    "object.md" : {
+
+    },
+    "execute.md" : {
+
+    },
+    "skill2.md" : {
+
+    },
+    "sov.md" : {
+
+    },
+    "monsters.md" : {
+
+    },
+    "dis.md" : {
+
+    },
+    "15.md" : {
+
+    },
+    "trans.md" : {
+
+    },
+    "12.md" : {
+
+    },
+    "worldview.md" : {
+
+    },
+    "skill.md" : {
+
+    },
+    "subjects.md" : {
+
+    },
+    "1.md" : {
+
+    },
+    "9.md" : {
+
+    },
+    "adt.md" : {
+
+    },
+    "6.md" : {
+
+    },
+    "spells3.md" : {
+
+    },
+    "battle.md" : {
+
+    },
+    "cs.md" : {
+
+    },
+    "weapon.md" : {
+
+    },
+    "13.md" : {
+
+    },
+    "storys.md" : {
+
+    },
+    "items.md" : {
+
+    },
+    "skill1.md" : {
+
+    },
+    "party.md" : {
+
+    },
+    "8.md" : {
+
+    },
+    "16.md" : {
+
+    },
+    "oc.md" : {
+
+    },
+    "magicre.md" : {
+
+    },
+    "suit.md" : {
+
+    },
+    "specis2.md" : {
+
+    },
+    "7.md" : {
+
+    },
+    "summary.md" : {
+
+    },
+    "pri.md" : {
+
+    },
+    "4.md" : {
+
+    },
+    "3.md" : {
+
+    },
+    "scene.md" : {
+
+    },
+    "10.md" : {
+
+    },
+    "option.md" : {
+
+    },
+    "spells1.md" : {
+
+    },
+    "17.md" : {
+
+    },
+    "wealth.md" : {
+
+    }
+  }
+}
